@@ -6,7 +6,7 @@
 
         echo $name.$age;
     }
-
+    echo "Hello";
     
 ?>
 
